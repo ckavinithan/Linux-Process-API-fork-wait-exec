@@ -44,7 +44,9 @@ int main() {
 
 ```
 ## OUTPUT:
-<img width="2065" height="762" alt="OS 21" src="https://github.com/user-attachments/assets/70a5e695-326d-4af6-8eaf-6fccaa0445bf" />
+<img width="1478" height="1064" alt="OS exp21" src="https://github.com/user-attachments/assets/9e76c5d9-6f30-4a65-8ac1-27acae22be69" />
+
+
 
 
 
@@ -93,7 +95,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="1662" height="946" alt="OS 22" src="https://github.com/user-attachments/assets/b17e007d-c8ee-42b2-aa1f-939588193ca0" />
+<img width="1536" height="1024" alt="OS exp22" src="https://github.com/user-attachments/assets/6014c490-d126-47ee-a8f0-2380f61969d4" />
+
 
 
 
