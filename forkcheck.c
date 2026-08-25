@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -38,3 +39,6 @@ int main() {
     printf("Done.\n");
     return 0;
 }
+=======
+//C Program to create new process using Linux API system calls fork() and exit()
+>>>>>>> 1c03708960a475aea950f20d6c9385b1c3bbf60d
